@@ -7,3 +7,8 @@ This game is meant to mimic one of my favorite games of all time - Tibia (https:
 A link to the final version of my game can be found here - https://drive.google.com/file/d/1uNovXTNUkuwQawBA58VYwTO3r8qUyC9r/view?usp=sharing<br />
 
 
+![alt text](https://github.com/diamlior/Tibia-Project/blob/master/Assets/Screenshots/Tibia_Screenshot1.jpg)<br />
+![alt text](https://github.com/diamlior/Tibia-Project/blob/master/Assets/Screenshots/Tibia_Screenshot2.jpg)<br />
+![alt text](https://github.com/diamlior/Tibia-Project/blob/master/Assets/Screenshots/Tibia_Screenshot3.jpg)<br />
+![alt text](https://github.com/diamlior/Tibia-Project/blob/master/Assets/Screenshots/Tibia_Screenshot4.jpg)<br />
+
