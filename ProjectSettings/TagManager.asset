@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ghoul
+  - creature
+  - hole
+  - water
+  - NPC
+  - slot
+  - door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Unwalkable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: TilesBase
+    uniqueID: 1232333837
+    locked: 0
+  - name: TilesBase2
+    uniqueID: 3847754529
+    locked: 0
+  - name: TilesBase3
+    uniqueID: 3926267701
+    locked: 0
+  - name: Players
+    uniqueID: 3780676175
+    locked: 0
+  - name: walls
+    uniqueID: 1895343977
+    locked: 0
+  - name: walls2
+    uniqueID: 1871023705
+    locked: 0
+  - name: walls3
+    uniqueID: 3239840997
+    locked: 0
+  - name: AlwaysOnTop
+    uniqueID: 660240119
+    locked: 0
+  - name: New Layer
+    uniqueID: 3553444713
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

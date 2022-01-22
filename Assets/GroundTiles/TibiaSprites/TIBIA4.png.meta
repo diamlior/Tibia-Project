@@ -1,0 +1,6464 @@
+fileFormatVersion: 2
+guid: ebf1168d4fe85a047870bd596919980b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4599367842685164843
+    second: TIBIA4_0
+  - first:
+      213: 4105574381290379921
+    second: TIBIA4_1
+  - first:
+      213: 4912842264150134257
+    second: TIBIA4_2
+  - first:
+      213: -8067969199977597371
+    second: TIBIA4_3
+  - first:
+      213: -956148969622412672
+    second: TIBIA4_4
+  - first:
+      213: 6982071544405316123
+    second: TIBIA4_5
+  - first:
+      213: 8055393584345600409
+    second: TIBIA4_6
+  - first:
+      213: 5067978693423634394
+    second: TIBIA4_7
+  - first:
+      213: 3099081941447960127
+    second: TIBIA4_8
+  - first:
+      213: 5191923556006649267
+    second: TIBIA4_9
+  - first:
+      213: -8028109500886031030
+    second: TIBIA4_10
+  - first:
+      213: 3413610737767215459
+    second: TIBIA4_11
+  - first:
+      213: -4485792840096735312
+    second: TIBIA4_12
+  - first:
+      213: 4823468109757314371
+    second: TIBIA4_13
+  - first:
+      213: 3430915458695437980
+    second: TIBIA4_14
+  - first:
+      213: -7640773733184947778
+    second: TIBIA4_15
+  - first:
+      213: -1662433652582317037
+    second: TIBIA4_16
+  - first:
+      213: 5760281921766616762
+    second: TIBIA4_17
+  - first:
+      213: 3425210409814085956
+    second: TIBIA4_18
+  - first:
+      213: 3994357469425560400
+    second: TIBIA4_19
+  - first:
+      213: -6661087291364125833
+    second: TIBIA4_20
+  - first:
+      213: -1644271648084861813
+    second: TIBIA4_21
+  - first:
+      213: -7553985656711166425
+    second: TIBIA4_22
+  - first:
+      213: 5138022130873236462
+    second: TIBIA4_23
+  - first:
+      213: -1100643246811618742
+    second: TIBIA4_24
+  - first:
+      213: 3719951418913511435
+    second: TIBIA4_25
+  - first:
+      213: 7211886560351773421
+    second: TIBIA4_26
+  - first:
+      213: -6794240625412879974
+    second: TIBIA4_27
+  - first:
+      213: 8996714156439496438
+    second: TIBIA4_28
+  - first:
+      213: -4617392306879087057
+    second: TIBIA4_29
+  - first:
+      213: 3624308429267853108
+    second: TIBIA4_30
+  - first:
+      213: 6657243864509281475
+    second: TIBIA4_31
+  - first:
+      213: -8877760325365630515
+    second: TIBIA4_32
+  - first:
+      213: 1383041046849295068
+    second: TIBIA4_33
+  - first:
+      213: -2468014165215312583
+    second: TIBIA4_34
+  - first:
+      213: -4861120544071047214
+    second: TIBIA4_35
+  - first:
+      213: 6561992643965141938
+    second: TIBIA4_36
+  - first:
+      213: 8235644295482424380
+    second: TIBIA4_37
+  - first:
+      213: 5156348867565419120
+    second: TIBIA4_38
+  - first:
+      213: 480981734881224486
+    second: TIBIA4_39
+  - first:
+      213: 6714271335031026406
+    second: TIBIA4_40
+  - first:
+      213: 3054473139560024292
+    second: TIBIA4_41
+  - first:
+      213: 5413426729237193021
+    second: TIBIA4_42
+  - first:
+      213: 1180846354288444119
+    second: TIBIA4_43
+  - first:
+      213: 959463191290334274
+    second: TIBIA4_44
+  - first:
+      213: -7784852419184150709
+    second: TIBIA4_45
+  - first:
+      213: -8153033696208850101
+    second: TIBIA4_46
+  - first:
+      213: -7674852296289741399
+    second: TIBIA4_47
+  - first:
+      213: -247248457656185115
+    second: TIBIA4_48
+  - first:
+      213: -6973410197598264116
+    second: TIBIA4_49
+  - first:
+      213: 2128854568830272130
+    second: TIBIA4_50
+  - first:
+      213: 8024747606084805236
+    second: TIBIA4_51
+  - first:
+      213: 2209089838468117383
+    second: TIBIA4_52
+  - first:
+      213: 8051093893663539531
+    second: TIBIA4_53
+  - first:
+      213: -6830634484678072681
+    second: TIBIA4_54
+  - first:
+      213: -2801587637513103856
+    second: TIBIA4_55
+  - first:
+      213: 7085964503247984452
+    second: TIBIA4_56
+  - first:
+      213: -5943885404426281617
+    second: TIBIA4_57
+  - first:
+      213: 255194479674842071
+    second: TIBIA4_58
+  - first:
+      213: 4615521938147327711
+    second: TIBIA4_59
+  - first:
+      213: -2271122900251092420
+    second: TIBIA4_60
+  - first:
+      213: -5761176748834881129
+    second: TIBIA4_61
+  - first:
+      213: 756343525605416673
+    second: TIBIA4_62
+  - first:
+      213: 7469661287248121419
+    second: TIBIA4_63
+  - first:
+      213: 8866223671066895663
+    second: TIBIA4_64
+  - first:
+      213: 3595911774436802740
+    second: TIBIA4_65
+  - first:
+      213: -5541566043760167819
+    second: TIBIA4_66
+  - first:
+      213: 1621938317707460002
+    second: TIBIA4_67
+  - first:
+      213: -6180264178811807718
+    second: TIBIA4_68
+  - first:
+      213: 6609389604389838268
+    second: TIBIA4_69
+  - first:
+      213: -5275799848713372047
+    second: TIBIA4_70
+  - first:
+      213: -4311909426971123112
+    second: TIBIA4_71
+  - first:
+      213: -3842972490676847919
+    second: TIBIA4_72
+  - first:
+      213: 1941225087815622763
+    second: TIBIA4_73
+  - first:
+      213: 2128949605682868069
+    second: TIBIA4_74
+  - first:
+      213: -4101136332392537314
+    second: TIBIA4_75
+  - first:
+      213: 3912276154655597729
+    second: TIBIA4_76
+  - first:
+      213: 2393085673047730864
+    second: TIBIA4_77
+  - first:
+      213: -6580719270604011722
+    second: TIBIA4_78
+  - first:
+      213: -4977345064911223697
+    second: TIBIA4_79
+  - first:
+      213: 2109096219964210794
+    second: TIBIA4_80
+  - first:
+      213: 713883514736974179
+    second: TIBIA4_81
+  - first:
+      213: 5591070822292881126
+    second: TIBIA4_82
+  - first:
+      213: -7903591072754543017
+    second: TIBIA4_83
+  - first:
+      213: 1225342787311930564
+    second: TIBIA4_84
+  - first:
+      213: -9213567143490428571
+    second: TIBIA4_85
+  - first:
+      213: 2947198765979783120
+    second: TIBIA4_86
+  - first:
+      213: -8523103506816585029
+    second: TIBIA4_87
+  - first:
+      213: -5753184891564027446
+    second: TIBIA4_88
+  - first:
+      213: 6160602771449554847
+    second: TIBIA4_89
+  - first:
+      213: 7722327294130160268
+    second: TIBIA4_90
+  - first:
+      213: -4892801067418214086
+    second: TIBIA4_91
+  - first:
+      213: -8180039487218071806
+    second: TIBIA4_92
+  - first:
+      213: -7945927687653560160
+    second: TIBIA4_93
+  - first:
+      213: 1584310568727129712
+    second: TIBIA4_94
+  - first:
+      213: 1450081944494144582
+    second: TIBIA4_95
+  - first:
+      213: -2701037256013669699
+    second: TIBIA4_96
+  - first:
+      213: -2141867521122684852
+    second: TIBIA4_97
+  - first:
+      213: 1536652337010330185
+    second: TIBIA4_98
+  - first:
+      213: 8427357591439706520
+    second: TIBIA4_99
+  - first:
+      213: -8331639776378601660
+    second: TIBIA4_100
+  - first:
+      213: -4520119566263286517
+    second: TIBIA4_101
+  - first:
+      213: 6316902068957580046
+    second: TIBIA4_102
+  - first:
+      213: -5133370689231329864
+    second: TIBIA4_103
+  - first:
+      213: -8889935732142043063
+    second: TIBIA4_104
+  - first:
+      213: 3617705965513081583
+    second: TIBIA4_105
+  - first:
+      213: 8204614985570756021
+    second: TIBIA4_106
+  - first:
+      213: -7036440554134691570
+    second: TIBIA4_107
+  - first:
+      213: 3991719434235454219
+    second: TIBIA4_108
+  - first:
+      213: 6570943705108387861
+    second: TIBIA4_109
+  - first:
+      213: 2914054838220090895
+    second: TIBIA4_110
+  - first:
+      213: -5579185516237259656
+    second: TIBIA4_111
+  - first:
+      213: 6919735463953149910
+    second: TIBIA4_112
+  - first:
+      213: -8617809689869874408
+    second: TIBIA4_113
+  - first:
+      213: 2427400732739007363
+    second: TIBIA4_114
+  - first:
+      213: -8449211574754183127
+    second: TIBIA4_115
+  - first:
+      213: -1428418220076210646
+    second: TIBIA4_116
+  - first:
+      213: 6345284192936153350
+    second: TIBIA4_117
+  - first:
+      213: -2695804091751146678
+    second: TIBIA4_118
+  - first:
+      213: -5475690025238942028
+    second: TIBIA4_119
+  - first:
+      213: 9116608137241959656
+    second: TIBIA4_120
+  - first:
+      213: -3503202897304981698
+    second: TIBIA4_121
+  - first:
+      213: -2474883531310221601
+    second: TIBIA4_122
+  - first:
+      213: 859336908060352535
+    second: TIBIA4_123
+  - first:
+      213: -6434222959113340294
+    second: TIBIA4_124
+  - first:
+      213: 2960346882378568346
+    second: TIBIA4_125
+  - first:
+      213: 6333289711898436397
+    second: TIBIA4_126
+  - first:
+      213: 6090856957969037552
+    second: TIBIA4_127
+  - first:
+      213: 336769123970471615
+    second: TIBIA4_128
+  - first:
+      213: 188943962678927156
+    second: TIBIA4_129
+  - first:
+      213: -7342135904901267833
+    second: TIBIA4_130
+  - first:
+      213: -254446705004719362
+    second: TIBIA4_131
+  - first:
+      213: 4914941638702449169
+    second: TIBIA4_132
+  - first:
+      213: 5962897610107632100
+    second: TIBIA4_133
+  - first:
+      213: -1872814405520433245
+    second: TIBIA4_134
+  - first:
+      213: -7478710449109846718
+    second: TIBIA4_135
+  - first:
+      213: -6700464750804262079
+    second: TIBIA4_136
+  - first:
+      213: 5257943092033690385
+    second: TIBIA4_137
+  - first:
+      213: -6821935593215235804
+    second: TIBIA4_138
+  - first:
+      213: -5194621185750970117
+    second: TIBIA4_139
+  - first:
+      213: 5944559385725098996
+    second: TIBIA4_140
+  - first:
+      213: 6467890767350778686
+    second: TIBIA4_141
+  - first:
+      213: -3797347417249160530
+    second: TIBIA4_142
+  - first:
+      213: -9023616260852232419
+    second: TIBIA4_143
+  - first:
+      213: 8505107661981159822
+    second: TIBIA4_144
+  - first:
+      213: -209482677295894574
+    second: TIBIA4_145
+  - first:
+      213: -4571095129648573884
+    second: TIBIA4_146
+  - first:
+      213: -3763482605427466233
+    second: TIBIA4_147
+  - first:
+      213: -1301035673329134251
+    second: TIBIA4_148
+  - first:
+      213: -533088924333425783
+    second: TIBIA4_149
+  - first:
+      213: -5638228650178651184
+    second: TIBIA4_150
+  - first:
+      213: -8131922462044387912
+    second: TIBIA4_151
+  - first:
+      213: -8950632250173812182
+    second: TIBIA4_152
+  - first:
+      213: 8207570194807608402
+    second: TIBIA4_153
+  - first:
+      213: 5527403804924908538
+    second: TIBIA4_154
+  - first:
+      213: 7990338420233161484
+    second: TIBIA4_155
+  - first:
+      213: 1299856542119381678
+    second: TIBIA4_156
+  - first:
+      213: 1467711924114984803
+    second: TIBIA4_157
+  - first:
+      213: 822544152193131828
+    second: TIBIA4_158
+  - first:
+      213: -3685863399179801772
+    second: TIBIA4_159
+  - first:
+      213: -4401292461847549352
+    second: TIBIA4_160
+  - first:
+      213: 213621286315036629
+    second: TIBIA4_161
+  - first:
+      213: -3720397646754068698
+    second: TIBIA4_162
+  - first:
+      213: -3091915704984473837
+    second: TIBIA4_163
+  - first:
+      213: -7632309197591500892
+    second: TIBIA4_164
+  - first:
+      213: 4410606036385116020
+    second: TIBIA4_165
+  - first:
+      213: -5654359958099438867
+    second: TIBIA4_166
+  - first:
+      213: -2679033123508844648
+    second: TIBIA4_167
+  - first:
+      213: 5750799672264338735
+    second: TIBIA4_168
+  - first:
+      213: -3645037838473048360
+    second: TIBIA4_169
+  - first:
+      213: -3675316317595250446
+    second: TIBIA4_170
+  - first:
+      213: -4739486135040541932
+    second: TIBIA4_171
+  - first:
+      213: 6917374848942913775
+    second: TIBIA4_172
+  - first:
+      213: 6036023622421018587
+    second: TIBIA4_173
+  - first:
+      213: 5468204376682502691
+    second: TIBIA4_174
+  - first:
+      213: 7540410165998458480
+    second: TIBIA4_175
+  - first:
+      213: 6986494268299965993
+    second: TIBIA4_176
+  - first:
+      213: -7628408513747499412
+    second: TIBIA4_177
+  - first:
+      213: -736030406471117210
+    second: TIBIA4_178
+  - first:
+      213: 3694617482299478114
+    second: TIBIA4_179
+  - first:
+      213: -7438735556783110685
+    second: TIBIA4_180
+  - first:
+      213: 7004866898607485250
+    second: TIBIA4_181
+  - first:
+      213: 1416463708974820789
+    second: TIBIA4_182
+  - first:
+      213: -1980466830616397756
+    second: TIBIA4_183
+  - first:
+      213: -4579622950735946272
+    second: TIBIA4_184
+  - first:
+      213: 2057078790577357891
+    second: TIBIA4_185
+  - first:
+      213: -3068941057426894862
+    second: TIBIA4_186
+  - first:
+      213: 5869700877876658635
+    second: TIBIA4_187
+  - first:
+      213: -8426841122439388047
+    second: TIBIA4_188
+  - first:
+      213: 4712748748567260603
+    second: TIBIA4_189
+  - first:
+      213: -451271312963715899
+    second: TIBIA4_190
+  - first:
+      213: -9127849951668736031
+    second: TIBIA4_191
+  - first:
+      213: 2468969064602466558
+    second: TIBIA4_192
+  - first:
+      213: 3493290134096086213
+    second: TIBIA4_193
+  - first:
+      213: 1102313087074675100
+    second: TIBIA4_194
+  - first:
+      213: -7399879086938849473
+    second: TIBIA4_195
+  - first:
+      213: -7283908197568772211
+    second: TIBIA4_196
+  - first:
+      213: -4617618095349330848
+    second: TIBIA4_197
+  - first:
+      213: 1827584611824579603
+    second: TIBIA4_198
+  - first:
+      213: -4303887188922060819
+    second: TIBIA4_199
+  - first:
+      213: 5970151388299878499
+    second: TIBIA4_200
+  - first:
+      213: 9162165138792235330
+    second: TIBIA4_201
+  - first:
+      213: -3594110848258808383
+    second: TIBIA4_202
+  - first:
+      213: 2696820619852727361
+    second: TIBIA4_203
+  - first:
+      213: -660169603863245790
+    second: TIBIA4_204
+  - first:
+      213: -4529445140224659576
+    second: TIBIA4_205
+  - first:
+      213: 7719727118401184962
+    second: TIBIA4_206
+  - first:
+      213: 2506156356814579033
+    second: TIBIA4_207
+  - first:
+      213: -4012792059378333569
+    second: TIBIA4_208
+  - first:
+      213: -124526900413495375
+    second: TIBIA4_209
+  - first:
+      213: -6844955277658843494
+    second: TIBIA4_210
+  - first:
+      213: -4792814024501697799
+    second: TIBIA4_211
+  - first:
+      213: 3806514326246468339
+    second: TIBIA4_212
+  - first:
+      213: -4550805848008542030
+    second: TIBIA4_213
+  - first:
+      213: -6323156025021522497
+    second: TIBIA4_214
+  - first:
+      213: 417600922522359916
+    second: TIBIA4_215
+  - first:
+      213: 784585141007370287
+    second: TIBIA4_216
+  - first:
+      213: -6101738046989371627
+    second: TIBIA4_217
+  - first:
+      213: 8657432320333683705
+    second: TIBIA4_218
+  - first:
+      213: -1289220066764624270
+    second: TIBIA4_219
+  - first:
+      213: 9154849063576256953
+    second: TIBIA4_220
+  - first:
+      213: -4785063228849983228
+    second: TIBIA4_221
+  - first:
+      213: -4761583348681721917
+    second: TIBIA4_222
+  - first:
+      213: 2619034004498178889
+    second: TIBIA4_223
+  - first:
+      213: 7094635656368653244
+    second: TIBIA4_224
+  - first:
+      213: -3596942879490705412
+    second: TIBIA4_225
+  - first:
+      213: -418488460293657622
+    second: TIBIA4_226
+  - first:
+      213: -7004709307202641314
+    second: TIBIA4_227
+  - first:
+      213: 2931471510569851795
+    second: TIBIA4_228
+  - first:
+      213: -2370611141361153477
+    second: TIBIA4_229
+  - first:
+      213: -5986257465437579064
+    second: TIBIA4_230
+  - first:
+      213: -5532176887386839301
+    second: TIBIA4_231
+  - first:
+      213: 2776822818869330870
+    second: TIBIA4_232
+  - first:
+      213: -2404410336364743000
+    second: TIBIA4_233
+  - first:
+      213: -1974947013251919347
+    second: TIBIA4_234
+  - first:
+      213: 4397743630957062768
+    second: TIBIA4_235
+  - first:
+      213: -5014184339789182778
+    second: TIBIA4_0
+  - first:
+      213: 2678013964897010733
+    second: TIBIA4_1
+  - first:
+      213: -4855818993066713198
+    second: TIBIA4_2
+  - first:
+      213: -5841176884813698671
+    second: TIBIA4_3
+  - first:
+      213: 8286440905959644718
+    second: TIBIA4_4
+  - first:
+      213: 8415957252304429325
+    second: TIBIA4_5
+  - first:
+      213: 8739540313939498881
+    second: TIBIA4_6
+  - first:
+      213: 675801874487086444
+    second: TIBIA4_7
+  - first:
+      213: -5278149581945475433
+    second: TIBIA4_8
+  - first:
+      213: 5989751380232903851
+    second: TIBIA4_9
+  - first:
+      213: -2460960629060572005
+    second: TIBIA4_10
+  - first:
+      213: -4705113987514307629
+    second: TIBIA4_11
+  - first:
+      213: -4688620518352618516
+    second: TIBIA4_12
+  - first:
+      213: 480132200548452514
+    second: TIBIA4_13
+  - first:
+      213: -5802408550961130580
+    second: TIBIA4_14
+  - first:
+      213: -7451545953431471744
+    second: TIBIA4_15
+  - first:
+      213: -7496482533765396708
+    second: TIBIA4_16
+  - first:
+      213: 3291719514131168335
+    second: TIBIA4_17
+  - first:
+      213: 965624709604040556
+    second: TIBIA4_18
+  - first:
+      213: 1810126247887065899
+    second: TIBIA4_19
+  - first:
+      213: 361834304427788099
+    second: TIBIA4_20
+  - first:
+      213: -5603428493100623284
+    second: TIBIA4_21
+  - first:
+      213: -5106423501801609986
+    second: TIBIA4_22
+  - first:
+      213: 2484904108917863520
+    second: TIBIA4_23
+  - first:
+      213: -275554914009959869
+    second: TIBIA4_24
+  - first:
+      213: 325956186654165158
+    second: TIBIA4_25
+  - first:
+      213: -6347575349084977098
+    second: TIBIA4_26
+  - first:
+      213: -2261638558735764711
+    second: TIBIA4_27
+  - first:
+      213: -8848448050426844375
+    second: TIBIA4_28
+  - first:
+      213: -4571723022441687173
+    second: TIBIA4_29
+  - first:
+      213: -5759566093059766947
+    second: TIBIA4_30
+  - first:
+      213: 931261584440989408
+    second: TIBIA4_31
+  - first:
+      213: -166134271084337572
+    second: TIBIA4_32
+  - first:
+      213: -3119786251641784228
+    second: TIBIA4_33
+  - first:
+      213: 4639981120013026612
+    second: TIBIA4_34
+  - first:
+      213: 261631682239236683
+    second: TIBIA4_35
+  - first:
+      213: 3786686586563996369
+    second: TIBIA4_36
+  - first:
+      213: 9086390722771603158
+    second: TIBIA4_37
+  - first:
+      213: 1096202020908435085
+    second: TIBIA4_38
+  - first:
+      213: -2739485628335122894
+    second: TIBIA4_39
+  - first:
+      213: -2204700939421500913
+    second: TIBIA4_40
+  - first:
+      213: 7954875363837266785
+    second: TIBIA4_41
+  - first:
+      213: -5242939281002682817
+    second: TIBIA4_42
+  - first:
+      213: -774569670439700596
+    second: TIBIA4_43
+  - first:
+      213: -6299604787331387595
+    second: TIBIA4_44
+  - first:
+      213: 845031141933330410
+    second: TIBIA4_45
+  - first:
+      213: 7931371232956500752
+    second: TIBIA4_46
+  - first:
+      213: -1658500223237453213
+    second: TIBIA4_47
+  - first:
+      213: 2864220717209110221
+    second: TIBIA4_48
+  - first:
+      213: 1007281609793536894
+    second: TIBIA4_49
+  - first:
+      213: -4410046976881137894
+    second: TIBIA4_50
+  - first:
+      213: 5887722808784740483
+    second: TIBIA4_51
+  - first:
+      213: 4096484465198775350
+    second: TIBIA4_52
+  - first:
+      213: 6437860937762128670
+    second: TIBIA4_53
+  - first:
+      213: -4110230709577971077
+    second: TIBIA4_54
+  - first:
+      213: 4440471712559823657
+    second: TIBIA4_55
+  - first:
+      213: 4752251098997689933
+    second: TIBIA4_56
+  - first:
+      213: -3676972526821676655
+    second: TIBIA4_57
+  - first:
+      213: 5275036109892255439
+    second: TIBIA4_58
+  - first:
+      213: 6830840153881268087
+    second: TIBIA4_59
+  - first:
+      213: -6877471460661403448
+    second: TIBIA4_60
+  - first:
+      213: -5614890016963191099
+    second: TIBIA4_61
+  - first:
+      213: -1256458573661174516
+    second: TIBIA4_62
+  - first:
+      213: 339719232791706512
+    second: TIBIA4_63
+  - first:
+      213: 1105760177609295107
+    second: TIBIA4_64
+  - first:
+      213: 7353782132362499932
+    second: TIBIA4_65
+  - first:
+      213: 1990233923350958419
+    second: TIBIA4_66
+  - first:
+      213: 4418603176643161162
+    second: TIBIA4_67
+  - first:
+      213: 7898200863718439549
+    second: TIBIA4_68
+  - first:
+      213: -7769030671948693118
+    second: TIBIA4_69
+  - first:
+      213: 5397216524422302503
+    second: TIBIA4_70
+  - first:
+      213: 4291059752249090472
+    second: TIBIA4_71
+  - first:
+      213: 2003082403308182860
+    second: TIBIA4_72
+  - first:
+      213: 4374388519830980193
+    second: TIBIA4_73
+  - first:
+      213: -7270134124971066663
+    second: TIBIA4_74
+  - first:
+      213: 3226984466862425719
+    second: TIBIA4_75
+  - first:
+      213: 1443937442961427684
+    second: TIBIA4_76
+  - first:
+      213: -6452897521580953349
+    second: TIBIA4_77
+  - first:
+      213: 3871741594148835484
+    second: TIBIA4_78
+  - first:
+      213: -2279105560476961259
+    second: TIBIA4_79
+  - first:
+      213: 700496243259195951
+    second: TIBIA4_80
+  - first:
+      213: 7605502469938561501
+    second: TIBIA4_81
+  - first:
+      213: 8315030830406354314
+    second: TIBIA4_82
+  - first:
+      213: 311603248727903822
+    second: TIBIA4_83
+  - first:
+      213: 9154793032935982565
+    second: TIBIA4_84
+  - first:
+      213: -358698516540455096
+    second: TIBIA4_85
+  - first:
+      213: -4633844211410815152
+    second: TIBIA4_86
+  - first:
+      213: 3581438784196761659
+    second: TIBIA4_87
+  - first:
+      213: -5749322900962286729
+    second: TIBIA4_88
+  - first:
+      213: -4516445891140046795
+    second: TIBIA4_89
+  - first:
+      213: 1334858131383754461
+    second: TIBIA4_90
+  - first:
+      213: 6041925137667980062
+    second: TIBIA4_91
+  - first:
+      213: 2492483379314735225
+    second: TIBIA4_92
+  - first:
+      213: -4895128088285237996
+    second: TIBIA4_93
+  - first:
+      213: 7742800891342514591
+    second: TIBIA4_94
+  - first:
+      213: 5092331801796226890
+    second: TIBIA4_95
+  - first:
+      213: 2659722809443580405
+    second: TIBIA4_96
+  - first:
+      213: -3388093016285973397
+    second: TIBIA4_97
+  - first:
+      213: -244860623535883481
+    second: TIBIA4_98
+  - first:
+      213: 4653815708379458948
+    second: TIBIA4_99
+  - first:
+      213: -5435911028781292118
+    second: TIBIA4_100
+  - first:
+      213: -2002959867853497360
+    second: TIBIA4_101
+  - first:
+      213: 4616437523536602284
+    second: TIBIA4_102
+  - first:
+      213: -4233018672725926312
+    second: TIBIA4_103
+  - first:
+      213: -4204306445666114234
+    second: TIBIA4_104
+  - first:
+      213: 1396437970730962012
+    second: TIBIA4_105
+  - first:
+      213: 1360886916474156728
+    second: TIBIA4_106
+  - first:
+      213: -1506268695834264910
+    second: TIBIA4_107
+  - first:
+      213: -2525135589152609089
+    second: TIBIA4_108
+  - first:
+      213: 8532323600354329474
+    second: TIBIA4_109
+  - first:
+      213: 8601366705438957217
+    second: TIBIA4_110
+  - first:
+      213: 3277360344181590658
+    second: TIBIA4_111
+  - first:
+      213: 6851187352591533455
+    second: TIBIA4_112
+  - first:
+      213: -4405470471999744531
+    second: TIBIA4_113
+  - first:
+      213: 6811474508713374716
+    second: TIBIA4_114
+  - first:
+      213: 4435514135292006395
+    second: TIBIA4_115
+  - first:
+      213: -8177604256090379419
+    second: TIBIA4_116
+  - first:
+      213: 5984625314895532594
+    second: TIBIA4_117
+  - first:
+      213: 8818895295943135008
+    second: TIBIA4_118
+  - first:
+      213: -1569153245464363703
+    second: TIBIA4_119
+  - first:
+      213: 8839374692789073505
+    second: TIBIA4_120
+  - first:
+      213: 8703413094090437288
+    second: TIBIA4_121
+  - first:
+      213: -6787136217461181023
+    second: TIBIA4_122
+  - first:
+      213: 634533888925973321
+    second: TIBIA4_123
+  - first:
+      213: 856320173026040562
+    second: TIBIA4_124
+  - first:
+      213: 7122877899717086789
+    second: TIBIA4_125
+  - first:
+      213: 4664498055341226521
+    second: TIBIA4_126
+  - first:
+      213: -6296825194139106757
+    second: TIBIA4_127
+  - first:
+      213: -3541500581856722130
+    second: TIBIA4_128
+  - first:
+      213: 1985074383403848615
+    second: TIBIA4_129
+  - first:
+      213: -7025321342119868203
+    second: TIBIA4_130
+  - first:
+      213: -4622863956382244114
+    second: TIBIA4_131
+  - first:
+      213: -4215460457668197600
+    second: TIBIA4_132
+  - first:
+      213: -5648006287854480097
+    second: TIBIA4_133
+  - first:
+      213: 71882021047496328
+    second: TIBIA4_134
+  - first:
+      213: -321075701543574642
+    second: TIBIA4_135
+  - first:
+      213: -244927008984093831
+    second: TIBIA4_136
+  - first:
+      213: 7373340365153561667
+    second: TIBIA4_137
+  - first:
+      213: -8151606767579567518
+    second: TIBIA4_138
+  - first:
+      213: -3793942216344758867
+    second: TIBIA4_139
+  - first:
+      213: -402687373945606312
+    second: TIBIA4_140
+  - first:
+      213: -4354308376457959635
+    second: TIBIA4_141
+  - first:
+      213: 7510587181852997939
+    second: TIBIA4_142
+  - first:
+      213: -3949789808218578950
+    second: TIBIA4_143
+  - first:
+      213: -905882134897119170
+    second: TIBIA4_144
+  - first:
+      213: -711104493156442997
+    second: TIBIA4_145
+  - first:
+      213: -5923163960677371980
+    second: TIBIA4_146
+  - first:
+      213: 6232666525320696166
+    second: TIBIA4_147
+  - first:
+      213: 6085068953724525640
+    second: TIBIA4_148
+  - first:
+      213: -5444886766661793961
+    second: TIBIA4_149
+  - first:
+      213: 2032985681611165674
+    second: TIBIA4_150
+  - first:
+      213: -7179619891010840617
+    second: TIBIA4_151
+  - first:
+      213: 7905787375930068789
+    second: TIBIA4_152
+  - first:
+      213: -772312739249575140
+    second: TIBIA4_153
+  - first:
+      213: -5556195254048841483
+    second: TIBIA4_154
+  - first:
+      213: 6397217384309497438
+    second: TIBIA4_155
+  - first:
+      213: -8098555650266262702
+    second: TIBIA4_156
+  - first:
+      213: -7132135378291112221
+    second: TIBIA4_157
+  - first:
+      213: 1330601081781965032
+    second: TIBIA4_158
+  - first:
+      213: -7104818395395925338
+    second: TIBIA4_159
+  - first:
+      213: -7351255107892622514
+    second: TIBIA4_160
+  - first:
+      213: 8971605813891215577
+    second: TIBIA4_161
+  - first:
+      213: -8276715415801517216
+    second: TIBIA4_162
+  - first:
+      213: -5724368629628030546
+    second: TIBIA4_163
+  - first:
+      213: 2570836842603821500
+    second: TIBIA4_164
+  - first:
+      213: -5061840896538749347
+    second: TIBIA4_165
+  - first:
+      213: -2251931671909744395
+    second: TIBIA4_166
+  - first:
+      213: -4987139024222866266
+    second: TIBIA4_167
+  - first:
+      213: -2598598404273716881
+    second: TIBIA4_168
+  - first:
+      213: -7044000484262284040
+    second: TIBIA4_169
+  - first:
+      213: 8448438570904483447
+    second: TIBIA4_170
+  - first:
+      213: 5864039407423910421
+    second: TIBIA4_171
+  - first:
+      213: -7336623251946930285
+    second: TIBIA4_172
+  - first:
+      213: -451733293478002758
+    second: TIBIA4_173
+  - first:
+      213: 1768676288908356932
+    second: TIBIA4_174
+  - first:
+      213: -7251614793418114205
+    second: TIBIA4_175
+  - first:
+      213: -306314476549972190
+    second: TIBIA4_176
+  - first:
+      213: 1116036510950543658
+    second: TIBIA4_177
+  - first:
+      213: 7551554528513746256
+    second: TIBIA4_178
+  - first:
+      213: 5669702935533470624
+    second: TIBIA4_179
+  - first:
+      213: -9056686436681950499
+    second: TIBIA4_180
+  - first:
+      213: -8477191932886545896
+    second: TIBIA4_181
+  - first:
+      213: -8512693926093180395
+    second: TIBIA4_182
+  - first:
+      213: 1762971752982772638
+    second: TIBIA4_183
+  - first:
+      213: 6217978027896828832
+    second: TIBIA4_184
+  - first:
+      213: 8261659563897418118
+    second: TIBIA4_185
+  - first:
+      213: -6385488189490448779
+    second: TIBIA4_186
+  - first:
+      213: 8479061548566418122
+    second: TIBIA4_187
+  - first:
+      213: 77147793965796993
+    second: TIBIA4_188
+  - first:
+      213: -4445734997970393413
+    second: TIBIA4_189
+  - first:
+      213: -175768074580151560
+    second: TIBIA4_190
+  - first:
+      213: -6904110990787426025
+    second: TIBIA4_191
+  - first:
+      213: 8811202741159330896
+    second: TIBIA4_192
+  - first:
+      213: -2359787514593486045
+    second: TIBIA4_193
+  - first:
+      213: 3785796232812615283
+    second: TIBIA4_194
+  - first:
+      213: -5036733140746115130
+    second: TIBIA4_195
+  - first:
+      213: 4234025247698773563
+    second: TIBIA4_196
+  - first:
+      213: 8446602867585659203
+    second: TIBIA4_197
+  - first:
+      213: -5243762813247619682
+    second: TIBIA4_198
+  - first:
+      213: 4518210247045246014
+    second: TIBIA4_199
+  - first:
+      213: -5863852018495883512
+    second: TIBIA4_200
+  - first:
+      213: -5046824829022620813
+    second: TIBIA4_201
+  - first:
+      213: -7671794510733310028
+    second: TIBIA4_202
+  - first:
+      213: -3901699855146875066
+    second: TIBIA4_203
+  - first:
+      213: 7269048947372788983
+    second: TIBIA4_204
+  - first:
+      213: -8602034247139255811
+    second: TIBIA4_205
+  - first:
+      213: 3299649302953008491
+    second: TIBIA4_206
+  - first:
+      213: -283214211807206334
+    second: TIBIA4_207
+  - first:
+      213: -6517495456344080429
+    second: TIBIA4_208
+  - first:
+      213: -1131401083523414750
+    second: TIBIA4_209
+  - first:
+      213: 1136048960330211611
+    second: TIBIA4_210
+  - first:
+      213: 5779505330245033868
+    second: TIBIA4_211
+  - first:
+      213: -6728878677051049352
+    second: TIBIA4_212
+  - first:
+      213: 4121718880244284594
+    second: TIBIA4_213
+  - first:
+      213: 7336430314938678581
+    second: TIBIA4_214
+  - first:
+      213: -7095091347243684893
+    second: TIBIA4_215
+  - first:
+      213: 7276209687407569764
+    second: TIBIA4_216
+  - first:
+      213: -7760698375732169262
+    second: TIBIA4_217
+  - first:
+      213: -8703977637062213518
+    second: TIBIA4_218
+  - first:
+      213: -3928097684216659878
+    second: TIBIA4_219
+  - first:
+      213: -2802450862169389213
+    second: TIBIA4_220
+  - first:
+      213: -6890052063784121107
+    second: TIBIA4_221
+  - first:
+      213: -5220566652080336322
+    second: TIBIA4_222
+  - first:
+      213: 806441437409070397
+    second: TIBIA4_223
+  - first:
+      213: 798592721909357631
+    second: TIBIA4_224
+  - first:
+      213: 5356923449837256383
+    second: TIBIA4_225
+  - first:
+      213: -7296133517672563385
+    second: TIBIA4_226
+  - first:
+      213: 719127989238240216
+    second: TIBIA4_227
+  - first:
+      213: 7365637211313787489
+    second: TIBIA4_228
+  - first:
+      213: 2979670389323482068
+    second: TIBIA4_229
+  - first:
+      213: 7072278028394454771
+    second: TIBIA4_230
+  - first:
+      213: 5846889653866508927
+    second: TIBIA4_231
+  - first:
+      213: -648719596951538177
+    second: TIBIA4_232
+  - first:
+      213: 5445764640365753813
+    second: TIBIA4_233
+  - first:
+      213: 7726319247581649599
+    second: TIBIA4_234
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TIBIA4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c80a84c8e90a6ab0800000000000000
+      internalID: -5014184339789182778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24c83923873a2520800000000000000
+      internalID: 2678013964897010733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fd9a06a5aac9cb0800000000000000
+      internalID: -4855818993066713198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199e4763298ffeea0800000000000000
+      internalID: -5841176884813698671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e9dfbb91a5ff270800000000000000
+      internalID: 8286440905959644718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d016a74088c7bc470800000000000000
+      internalID: 8415957252304429325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187d1988c95194970800000000000000
+      internalID: 8739540313939498881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d885b693ee06900800000000000000
+      internalID: 675801874487086444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e63c88bee30c6b0800000000000000
+      internalID: -5278149581945475433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac10bf252fdf1350800000000000000
+      internalID: 5989751380232903851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c6f9ab859e8ddd0800000000000000
+      internalID: -2460960629060572005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbec72d1c314beb0800000000000000
+      internalID: -4705113987514307629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebfbfcda7caeeeb0800000000000000
+      internalID: -4688620518352618516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8caea41b5c9a600800000000000000
+      internalID: 480132200548452514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3d5465a24b97fa0800000000000000
+      internalID: -5802408550961130580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089b7327f6ac69890800000000000000
+      internalID: -7451545953431471744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c174ef58ad427f790800000000000000
+      internalID: -7496482533765396708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c720435798ead20800000000000000
+      internalID: 3291719514131168335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fd94aae86966d00800000000000000
+      internalID: 965624709604040556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b235be36b3cde1910800000000000000
+      internalID: 1810126247887065899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34708fef16e750500800000000000000
+      internalID: 361834304427788099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a5f68497f9c32b0800000000000000
+      internalID: -5603428493100623284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4a86e41e65229b0800000000000000
+      internalID: -5106423501801609986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06435f81f172c7220800000000000000
+      internalID: 2484904108917863520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342b25204480d2cf0800000000000000
+      internalID: -275554914009959869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8ccddbc67068400800000000000000
+      internalID: 325956186654165158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63883c4d9d1e8e7a0800000000000000
+      internalID: -6347575349084977098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9137a38a6bb0d90e0800000000000000
+      internalID: -2261638558735764711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b6fc4116ff33580800000000000000
+      internalID: -8848448050426844375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7753e3122afd80c0800000000000000
+      internalID: -4571723022441687173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55c9c26729e110b0800000000000000
+      internalID: -5759566093059766947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6929d1a718cec00800000000000000
+      internalID: 931261584440989408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56effab2c5c1bdf0800000000000000
+      internalID: -166134271084337572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c587eb7feea44b4d0800000000000000
+      internalID: -3119786251641784228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43545e6be36846040800000000000000
+      internalID: 4639981120013026612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a8bd9f0a081a300800000000000000
+      internalID: 261631682239236683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da22e343630d8430800000000000000
+      internalID: 3786686586563996369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dec4397838591e70800000000000000
+      internalID: 9086390722771603158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86005a1eed763f00800000000000000
+      internalID: 1096202020908435085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2361ccfd5546bf9d0800000000000000
+      internalID: -2739485628335122894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0abfc53d245761e0800000000000000
+      internalID: -2204700939421500913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bc6062ff4656e60800000000000000
+      internalID: 7954875363837266785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36a4e090865d37b0800000000000000
+      internalID: -5242939281002682817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8776a31dfc2045f0800000000000000
+      internalID: -774569670439700596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f23c992de4398a0800000000000000
+      internalID: -6299604787331387595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef241fa8572abb00800000000000000
+      internalID: 845031141933330410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bcf1a3d14e11e60800000000000000
+      internalID: 7931371232956500752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a860685d2dbf8e0800000000000000
+      internalID: -1658500223237453213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc640972191cfb720800000000000000
+      internalID: 2864220717209110221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73078c89459afd00800000000000000
+      internalID: 1007281609793536894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17e634d3ad5cc2c0800000000000000
+      internalID: -4410046976881137894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380649933b465b150800000000000000
+      internalID: 5887722808784740483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c3410cae2a9d830800000000000000
+      internalID: 4096484465198775350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13cca4e960e75950800000000000000
+      internalID: 6437860937762128670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a04b252f685f6c0800000000000000
+      internalID: -4110230709577971077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b7c46fe79bf9d30800000000000000
+      internalID: 4440471712559823657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e873f223363f140800000000000000
+      internalID: 4752251098997689933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1996ce1e7f4c8fcc0800000000000000
+      internalID: -3676972526821676655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce7c73c461b43940800000000000000
+      internalID: 5275036109892255439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f4199bde40cce50800000000000000
+      internalID: 6830840153881268087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0e36a15205e80a0800000000000000
+      internalID: -6877471460661403448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce950e4747e312b0800000000000000
+      internalID: -5614890016963191099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c058ee19599209ee0800000000000000
+      internalID: -1256458573661174516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bfae1a7dce6b400800000000000000
+      internalID: 339719232791706512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305cc21e503785f00800000000000000
+      internalID: 1105760177609295107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57d41b23e1ed0660800000000000000
+      internalID: 7353782132362499932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3511445653bbe9b10800000000000000
+      internalID: 1990233923350958419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c6a3bad28025d30800000000000000
+      internalID: 4418603176643161162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7afe9ec6db0c9d60800000000000000
+      internalID: 7898200863718439549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281426514cbde2490800000000000000
+      internalID: -7769030671948693118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b4f0255d3c6ea40800000000000000
+      internalID: 5397216524422302503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a168c21c18ec8b30800000000000000
+      internalID: 4291059752249090472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d150145d06ccb10800000000000000
+      internalID: 2003082403308182860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166821aae23f4bc30800000000000000
+      internalID: 4374388519830980193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da77ab388b4b1b90800000000000000
+      internalID: -7270134124971066663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776c90b764d88cc20800000000000000
+      internalID: 3226984466862425719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec0a9d3475e90410800000000000000
+      internalID: 1443937442961427684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf03b2e94e3b276a0800000000000000
+      internalID: -6452897521580953349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90985d67703bb530800000000000000
+      internalID: 3871741594148835484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5163726619dfe50e0800000000000000
+      internalID: -2279105560476961259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22c5f13f99a8b900800000000000000
+      internalID: 700496243259195951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd14b03633c2c8960800000000000000
+      internalID: 7605502469938561501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85cace3c7ce46370800000000000000
+      internalID: 8315030830406354314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ec847f089035400800000000000000
+      internalID: 311603248727903822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5ce5062cb5c0f70800000000000000
+      internalID: 9154793032935982565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84785248995a50bf0800000000000000
+      internalID: -358698516540455096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057bb5aad3741bfb0800000000000000
+      internalID: -4633844211410815152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38dad45993d3b130800000000000000
+      internalID: 3581438784196761659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773ef15684d4630b0800000000000000
+      internalID: -5749322900962286729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303353246c5251c0800000000000000
+      internalID: -4516445891140046795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde9baae56e568210800000000000000
+      internalID: 1334858131383754461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bf336b6ea39d350800000000000000
+      internalID: 6041925137667980062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978be908d64179220800000000000000
+      internalID: 2492483379314735225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41da8bf60f2011cb0800000000000000
+      internalID: -4895128088285237996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f996c073364f37b60800000000000000
+      internalID: 7742800891342514591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f2d7c1bc89ba640800000000000000
+      internalID: 5092331801796226890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f973e9adcb39e420800000000000000
+      internalID: 2659722809443580405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64fa424a531bf0d0800000000000000
+      internalID: -3388093016285973397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bb9aa6f841a9cf0800000000000000
+      internalID: -244860623535883481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d2714dabca59040800000000000000
+      internalID: 4653815708379458948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5ecd258b3cf84b0800000000000000
+      internalID: -5435911028781292118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb9a31cc9e0434e0800000000000000
+      internalID: -2002959867853497360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4ee2ef771e01040800000000000000
+      internalID: 4616437523536602284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e5394d1fb4145c0800000000000000
+      internalID: -4233018672725926312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645af23209d47a5c0800000000000000
+      internalID: -4204306445666114234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c494c8fe4216310800000000000000
+      internalID: 1396437970730962012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b63be3b077d2e210800000000000000
+      internalID: 1360886916474156728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baf1880a98a81be0800000000000000
+      internalID: -1506268695834264910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcacd67f8ae4fcd0800000000000000
+      internalID: -2525135589152609089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2834dcbbb17e86670800000000000000
+      internalID: 8532323600354329474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae9f8452713e5770800000000000000
+      internalID: 8601366705438957217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a45eb6ed58b7d20800000000000000
+      internalID: 3277360344181590658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f850ed8199e441f50800000000000000
+      internalID: 6851187352591533455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de59bf762ff9cd2c0800000000000000
+      internalID: -4405470471999744531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf33d781af7378e50800000000000000
+      internalID: 6811474508713374716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffcd4e0b9c1e8d30800000000000000
+      internalID: 4435514135292006395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ba2028140538e80800000000000000
+      internalID: -8177604256090379419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23298281409ad0350800000000000000
+      internalID: 5984625314895532594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fcd021c82036a70800000000000000
+      internalID: 8818895295943135008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94df1fddf6f393ae0800000000000000
+      internalID: -1569153245464363703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16635483374cbaa70800000000000000
+      internalID: 8839374692789073505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a27ebea81cb8c870800000000000000
+      internalID: 8703413094090437288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5b90ce19f3fc1a0800000000000000
+      internalID: -6787136217461181023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b3167c5315ec800800000000000000
+      internalID: 634533888925973321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_124
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fad73f09a242eb00800000000000000
+      internalID: 856320173026040562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_125
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e0e1f06bb89d260800000000000000
+      internalID: 7122877899717086789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_126
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a3d1c8440abb040800000000000000
+      internalID: 4664498055341226521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32cb9219de2d98a0800000000000000
+      internalID: -6296825194139106757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2347960cff0adec0800000000000000
+      internalID: -3541500581856722130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3938362a66c8b10800000000000000
+      internalID: 1985074383403848615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d889f9067b018e90800000000000000
+      internalID: -7025321342119868203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_131
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee221e289b948dfb0800000000000000
+      internalID: -4622863956382244114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_132
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0234bf75c0daf75c0800000000000000
+      internalID: -4215460457668197600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15d243a4304e91b0800000000000000
+      internalID: -5648006287854480097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ee54a31506ff000800000000000000
+      internalID: 71882021047496328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_135
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e836c7fb95f4b8bf0800000000000000
+      internalID: -321075701543574642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_136
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97baa99de28d99cf0800000000000000
+      internalID: -244927008984093831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_137
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce6091ffd535660800000000000000
+      internalID: 7373340365153561667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_138
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aefbd75dcafde80800000000000000
+      internalID: -8151606767579567518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da59968c7a5395bc0800000000000000
+      internalID: -3793942216344758867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_140
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fef6887fd596af0800000000000000
+      internalID: -402687373945606312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_141
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2727ba0a936293c0800000000000000
+      internalID: -4354308376457959635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_142
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33933f4cf37fa3860800000000000000
+      internalID: 7510587181852997939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff5ca7a8178f29c0800000000000000
+      internalID: -3949789808218578950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_144
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30b5157ff8ad63f0800000000000000
+      internalID: -905882134897119170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cd9372b36a126f0800000000000000
+      internalID: -711104493156442997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfed6192c1bccda0800000000000000
+      internalID: -5923163960677371980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_147
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6615535ce21ee7650800000000000000
+      internalID: 6232666525320696166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c128c29f1827450800000000000000
+      internalID: 6085068953724525640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75706ee7550ef64b0800000000000000
+      internalID: -5444886766661793961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_150
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef83e9c4bd963c10800000000000000
+      internalID: 2032985681611165674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_151
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d758f59fbddc5c90800000000000000
+      internalID: -7179619891010840617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_152
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f44145bbff6bd60800000000000000
+      internalID: 7905787375930068789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_153
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b2581d7a13845f0800000000000000
+      internalID: -772312739249575140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_154
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f025bbbadd64e2b0800000000000000
+      internalID: -5556195254048841483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_155
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e98be215b77c850800000000000000
+      internalID: 6397217384309497438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_156
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25395284b862c9f80800000000000000
+      internalID: -8098555650266262702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_157
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e646fe39a0950d90800000000000000
+      internalID: -7132135378291112221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_158
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e05d5152ae377210800000000000000
+      internalID: 1330601081781965032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aad3c4ff4d966d90800000000000000
+      internalID: -7104818395395925338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_160
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bc8c09d681bf990800000000000000
+      internalID: -7351255107892622514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0b0d144fb818c70800000000000000
+      internalID: 8971605813891215577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_162
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ba6266e23332d80800000000000000
+      internalID: -8276715415801517216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_163
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1b1a37f05fe80b0800000000000000
+      internalID: -5724368629628030546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_164
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb933eacc727da320800000000000000
+      internalID: 2570836842603821500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_165
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56534cf58ab0c9b0800000000000000
+      internalID: -5061840896538749347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_166
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f04e5d53188fb0e0800000000000000
+      internalID: -2251931671909744395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_167
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a435bffa7f1acab0800000000000000
+      internalID: -4987139024222866266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_168
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f614e5fe48cefebd0800000000000000
+      internalID: -2598598404273716881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_169
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4fdd951eeae3e90800000000000000
+      internalID: -7044000484262284040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_170
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77678755e12ee3570800000000000000
+      internalID: 8448438570904483447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_171
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512f464a5c0416150800000000000000
+      internalID: 5864039407423910421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_172
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ff4d006041f2a90800000000000000
+      internalID: -7336623251946930285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_173
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfb60586fe1bb9f0800000000000000
+      internalID: -451733293478002758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_174
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44de903c6b99b8810800000000000000
+      internalID: 1768676288908356932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b785e14c61d5b90800000000000000
+      internalID: -7251614793418114205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_176
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fdda34b90cfbbf0800000000000000
+      internalID: -306314476549972190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21d29f2b45fc7f00800000000000000
+      internalID: 1116036510950543658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055ed0675d28cc860800000000000000
+      internalID: 7551554528513746256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_179
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3467ec7c4deae40800000000000000
+      internalID: 5669702935533470624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_180
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda59739baf205280800000000000000
+      internalID: -9056686436681950499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_181
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a8d73e9d6fa5a80800000000000000
+      internalID: -8477191932886545896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_182
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5123795f9f5dcd980800000000000000
+      internalID: -8512693926093180395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_183
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bf59df775577810800000000000000
+      internalID: 1762971752982772638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_184
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a379f57212ba4650800000000000000
+      internalID: 6217978027896828832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_185
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6817059e99f47a270800000000000000
+      internalID: 8261659563897418118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_186
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57638fbc2503267a0800000000000000
+      internalID: -6385488189490448779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_187
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac299feed8daba570800000000000000
+      internalID: 8479061548566418122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_188
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e49868285121100800000000000000
+      internalID: 77147793965796993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_189
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6e378e2939d42c0800000000000000
+      internalID: -4445734997970393413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_190
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2bbcf0edb8f8df0800000000000000
+      internalID: -175768074580151560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719ce3822abaf20a0800000000000000
+      internalID: -6904110990787426025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_192
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05400c6953ea74a70800000000000000
+      internalID: 8811202741159330896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bd04712c9504fd0800000000000000
+      internalID: -2359787514593486045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376dec0ad99d98430800000000000000
+      internalID: 3785796232812615283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_195
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7e36de4ede91ab0800000000000000
+      internalID: -5036733140746115130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36ee1ba78742ca30800000000000000
+      internalID: 4234025247698773563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_197
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3413d395e8c583570800000000000000
+      internalID: 8446602867585659203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_198
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9df8f501896a37b0800000000000000
+      internalID: -5243762813247619682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_199
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c69abf748e3be30800000000000000
+      internalID: 4518210247045246014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_200
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807781e38a96f9ea0800000000000000
+      internalID: -5863852018495883512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_201
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3733c76ae8316f9b0800000000000000
+      internalID: -5046824829022620813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_202
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b703f51a8f488590800000000000000
+      internalID: -7671794510733310028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_203
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64707c167a06ad9c0800000000000000
+      internalID: -3901699855146875066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_204
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc051b2189d0e460800000000000000
+      internalID: 7269048947372788983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_205
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df915818d6f6f9880800000000000000
+      internalID: -8602034247139255811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_206
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d11e90f85bacd20800000000000000
+      internalID: 3299649302953008491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_207
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244a3e5cc22d11cf0800000000000000
+      internalID: -283214211807206334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_208
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df7363e9643d85a0800000000000000
+      internalID: -6517495456344080429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_209
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225481e75b47c40f0800000000000000
+      internalID: -1131401083523414750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_210
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b112fe7a28e04cf00800000000000000
+      internalID: 1136048960330211611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_211
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f5bba0a7de43050800000000000000
+      internalID: 5779505330245033868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_212
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87afbad8e783e92a0800000000000000
+      internalID: -6728878677051049352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_213
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc3bf8db79433930800000000000000
+      internalID: 4121718880244284594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_214
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53db359508c30d560800000000000000
+      internalID: 7336430314938678581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_215
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eba796d20c298d90800000000000000
+      internalID: -7095091347243684893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_216
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b2f21e82a4af460800000000000000
+      internalID: 7276209687407569764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_217
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d57889f1f57c4490800000000000000
+      internalID: -7760698375732169262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_218
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27086f96472453780800000000000000
+      internalID: -8703977637062213518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_219
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a504b39d7f79c79c0800000000000000
+      internalID: -3928097684216659878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_220
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36708e3f9c1bb19d0800000000000000
+      internalID: -2802450862169389213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_221
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec433e272e9160a0800000000000000
+      internalID: -6890052063784121107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_222
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3250882a42dc87b0800000000000000
+      internalID: -5220566652080336322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_223
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d4ce0f63e013b00800000000000000
+      internalID: 806441437409070397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_224
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c9e9579db251b00800000000000000
+      internalID: 798592721909357631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_225
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe7284de7d975a40800000000000000
+      internalID: 5356923449837256383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_226
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d3e45e83deeba90800000000000000
+      internalID: -7296133517672563385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_227
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3169a981bdaf900800000000000000
+      internalID: 719127989238240216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_228
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162d1c4d400083660800000000000000
+      internalID: 7365637211313787489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_229
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3406f9e6ae95920800000000000000
+      internalID: 2979670389323482068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_230
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe50437567c52260800000000000000
+      internalID: 7072278028394454771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_231
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72be9b7923542150800000000000000
+      internalID: 5846889653866508927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_232
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff57ed0b6f84ff6f0800000000000000
+      internalID: -648719596951538177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_233
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d53267661e339b40800000000000000
+      internalID: 5445764640365753813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIBIA4_234
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba1e5d7b66693b60800000000000000
+      internalID: 7726319247581649599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
