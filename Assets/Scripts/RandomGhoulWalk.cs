@@ -189,86 +189,73 @@ public class RandomGhoulWalk : MonoBehaviour
     }
     public void AttackMode()
     {
-        if (isAttacking)
+        if (isAttacking && state == 5)
         {
-
-            if (state == 5)
+            if (pathfinding.waypoints.Count > 2)
             {
-                if (pathfinding.waypoints.Count > 2)
+
+                if (nextStep == Vector3.left)
                 {
-
-                    if (nextStep == Vector3.left)
-                    {
-                        dir = 4;
-                        state = 0;
-                    }
-
-                    else if (nextStep == Vector3.right)
-                    {
-                        dir = 6;
-                        state = 0;
-                    }
-                    else if (nextStep == Vector3.up)
-                    {
-                        dir = 8;
-                        state = 0;
-                    }
-                    else if (nextStep == Vector3.down)
-                    {
-                        dir = 2;
-                        state = 0;
-                    }
-                    else if (nextStep == Vector3.down + Vector3.left)
-                    {
-                        dir = 1;
-                        state = 0;
-                    }
-                    else if (nextStep == Vector3.down + Vector3.right)
-                    {
-                        dir = 6;
-                        state = 0;
-                    }
-                    else if (nextStep == Vector3.up + Vector3.left)
-                    {
-                        dir = 7;
-                        state = 0;
-                    }
-                    else if (nextStep == Vector3.up + Vector3.right)
-                    {
-                        dir = 9;
-                        state = 0;
-                    }
-                    else
-                    {
-                        stopWalk();
-                        return;
-                    }
-                    
-                    checkAndMove(dir);
+                    dir = 4;
+                    state = 0;
                 }
 
-            }
+                else if (nextStep == Vector3.right)
+                {
+                    dir = 6;
+                    state = 0;
+                }
+                else if (nextStep == Vector3.up)
+                {
+                    dir = 8;
+                    state = 0;
+                }
+                else if (nextStep == Vector3.down)
+                {
+                    dir = 2;
+                    state = 0;
+                }
+                else if (nextStep == Vector3.down + Vector3.left)
+                {
+                    dir = 1;
+                    state = 0;
+                }
+                else if (nextStep == Vector3.down + Vector3.right)
+                {
+                    dir = 6;
+                    state = 0;
+                }
+                else if (nextStep == Vector3.up + Vector3.left)
+                {
+                    dir = 7;
+                    state = 0;
+                }
+                else if (nextStep == Vector3.up + Vector3.right)
+                {
+                    dir = 9;
+                    state = 0;
+                }
+                else
+                {
+                    stopWalk();
+                    return;
+                }
 
+                checkAndMove(dir);
+            }
         }
     }
     public void Attack()
     {
-        if (isAttacking)
+        if (isAttacking && state == 5)
         {
-            if (state == 5)
+            if (Math.Abs(realPos.x - pathfinding.playerMovement.realPos.x) <= 1 && Math.Abs(realPos.y - pathfinding.playerMovement.realPos.y) <= 1)
             {
-                if (Math.Abs(realPos.x - pathfinding.playerMovement.realPos.x) <= 1 && Math.Abs(realPos.y - pathfinding.playerMovement.realPos.y) <= 1)
-                {
-                    playerStats playerstats = player.GetComponentInChildren<playerStats>();
-                    playerstats.IncreaseHealhBy(-10);
-                    showdamage.createDamage(pathfinding.playerMovement.realPos, "10", Color.red);
-                    //isAttacking = false;
-                    //CancelInvoke();
-                    //InvokeRepeating("RandWalk", 1.5f, 1.5f);
-                }
-
+                int dmg = rand.Next(1, 15);
+                playerStats playerstats = player.GetComponentInChildren<playerStats>();
+                playerstats.IncreaseHealhBy(dmg * -1);
+                showdamage.createDamage(pathfinding.playerMovement.realPos, dmg.ToString(), Color.red);
             }
-
         }
     }
 
