@@ -750,7 +750,7 @@ TextureImporter:
       213: 3443299057688274007
     second: otsp_walls_01_new_248
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -770,6 +770,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -779,8 +781,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -801,10 +803,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -832,6 +838,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -6084,6 +6102,256 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      otsp_walls_01_new_75: -617571020547453418
+      otsp_walls_01_new_239: -2579255294728839639
+      otsp_walls_01_new_180: -6307496324013613165
+      otsp_walls_01_new_207: 8215554300191484542
+      otsp_walls_01_new_29: -1310527799231059271
+      otsp_walls_01_new_27: 7625468483734850941
+      otsp_walls_01_new_243: -2967584990761802947
+      otsp_walls_01_new_54: -2613589741597130934
+      otsp_walls_01_new_245: -4914422348087809023
+      otsp_walls_01_new_93: -2985961630445502607
+      otsp_walls_01_new_142: -1523535811803290235
+      otsp_walls_01_new_208: 1624517916586178766
+      otsp_walls_01_new_45: 7597026037460896045
+      otsp_walls_01_new_61: -2275805135184929052
+      otsp_walls_01_new_98: 6182367844538918320
+      otsp_walls_01_new_80: -7452179969884844364
+      otsp_walls_01_new_36: -4585796592187259479
+      otsp_walls_01_new_228: 3779109986880233066
+      otsp_walls_01_new_44: 1675474752314618219
+      otsp_walls_01_new_140: 1451694912327811463
+      otsp_walls_01_new_183: 7052402003342546795
+      otsp_walls_01_new_137: 4398758873190425465
+      otsp_walls_01_new_166: 7024988556039346797
+      otsp_walls_01_new_134: 7506304914231128378
+      otsp_walls_01_new_34: 6795228167339015072
+      otsp_walls_01_new_184: 5141455810091081153
+      otsp_walls_01_new_196: 1415879809549692886
+      otsp_walls_01_new_10: 3894974663105180185
+      otsp_walls_01_new_97: 6636577536601726544
+      otsp_walls_01_new_49: 7257519409811447000
+      otsp_walls_01_new_131: -1016256950839794545
+      otsp_walls_01_new_114: 6260493943928953129
+      otsp_walls_01_new_120: -3622749070996657686
+      otsp_walls_01_new_223: 4319011828888162245
+      otsp_walls_01_new_17: 7466223987832865260
+      otsp_walls_01_new_127: 8348340219804789459
+      otsp_walls_01_new_205: 7045708936513597827
+      otsp_walls_01_new_132: 7425614947319093173
+      otsp_walls_01_new_76: -1037140406924484207
+      otsp_walls_01_new_240: -28667448980966005
+      otsp_walls_01_new_201: -6815789607703477644
+      otsp_walls_01_new_203: 8896550058153649029
+      otsp_walls_01_new_40: 5172934458225425505
+      otsp_walls_01_new_12: -5930137870867692161
+      otsp_walls_01_new_193: 2782781952605974258
+      otsp_walls_01_new_56: -4234456433719733759
+      otsp_walls_01_new_87: 5121392914617237045
+      otsp_walls_01_new_220: -3261879201653265388
+      otsp_walls_01_new_173: -8703974097884372795
+      otsp_walls_01_new_213: -1830119094736617008
+      otsp_walls_01_new_167: 4379175224665782459
+      otsp_walls_01_new_11: -7807366071142784788
+      otsp_walls_01_new_30: -3362464932338342328
+      otsp_walls_01_new_151: -4293857472160611508
+      otsp_walls_01_new_187: -2811905872612935606
+      otsp_walls_01_new_106: 5896890600297762383
+      otsp_walls_01_new_121: -8635100699965863148
+      otsp_walls_01_new_170: 8603647662808849458
+      otsp_walls_01_new_143: 3633394089915921389
+      otsp_walls_01_new_135: 5214756096872661814
+      otsp_walls_01_new_146: -2277327542715840922
+      otsp_walls_01_new_155: -1228338030598730453
+      otsp_walls_01_new_175: -581788894916847075
+      otsp_walls_01_new_154: -3407362448109562698
+      otsp_walls_01_new_222: 1213248228249056559
+      otsp_walls_01_new_6: 6825673541292340214
+      otsp_walls_01_new_8: -6796894865609537679
+      otsp_walls_01_new_160: -2626363582021751745
+      otsp_walls_01_new_191: 3135720065956455780
+      otsp_walls_01_new_82: -3119194741451678563
+      otsp_walls_01_new_74: 6712778736123185214
+      otsp_walls_01_new_227: -5879372950783351211
+      otsp_walls_01_new_147: -6108729153540214342
+      otsp_walls_01_new_51: -7688812107728184867
+      otsp_walls_01_new_91: 6750870429964085600
+      otsp_walls_01_new_179: 6417839991101560658
+      otsp_walls_01_new_0: 3111407193699679218
+      otsp_walls_01_new_84: 333382667652444056
+      otsp_walls_01_new_172: 2905125643634888777
+      otsp_walls_01_new_141: -4967360591401822911
+      otsp_walls_01_new_19: 1444456619749436059
+      otsp_walls_01_new_209: -4650690743341900339
+      otsp_walls_01_new_163: -6896311283713014680
+      otsp_walls_01_new_78: -1472398311353378757
+      otsp_walls_01_new_1: -7417825008894310421
+      otsp_walls_01_new_41: 6849504809030163324
+      otsp_walls_01_new_185: -7021922164711966715
+      otsp_walls_01_new_246: 4986821586269848586
+      otsp_walls_01_new_90: -675378533801884501
+      otsp_walls_01_new_7: 6131112247613639680
+      otsp_walls_01_new_37: -5069170271804301361
+      otsp_walls_01_new_2: 5082280718055906984
+      otsp_walls_01_new_5: 8980949853691430152
+      otsp_walls_01_new_105: 1853099023806537334
+      otsp_walls_01_new_3: -8586285509084488631
+      otsp_walls_01_new_102: 7593847671693003041
+      otsp_walls_01_new_165: -5723140125033703460
+      otsp_walls_01_new_150: 7328691952260330570
+      otsp_walls_01_new_107: 5807095822167284227
+      otsp_walls_01_new_248: 3443299057688274007
+      otsp_walls_01_new_115: -185534707943739044
+      otsp_walls_01_new_206: 3034380212268143689
+      otsp_walls_01_new_164: -8528655197566404622
+      otsp_walls_01_new_47: -7770954550199209307
+      otsp_walls_01_new_162: 5724263782424368681
+      otsp_walls_01_new_215: 3263786376488625546
+      otsp_walls_01_new_88: 4080313270950597466
+      otsp_walls_01_new_117: 6221030298303513186
+      otsp_walls_01_new_202: -6124693447688545548
+      otsp_walls_01_new_64: -764531689087826371
+      otsp_walls_01_new_219: 1136991655578276013
+      otsp_walls_01_new_123: -6230991644713484876
+      otsp_walls_01_new_169: -949415070974276950
+      otsp_walls_01_new_159: -5719840925607740394
+      otsp_walls_01_new_125: 896932253626907891
+      otsp_walls_01_new_234: 6083677173181776745
+      otsp_walls_01_new_118: -284140932948462083
+      otsp_walls_01_new_14: -8526633215594526615
+      otsp_walls_01_new_28: -5610054760601078703
+      otsp_walls_01_new_60: 7814736469011699782
+      otsp_walls_01_new_128: -4561010812871514520
+      otsp_walls_01_new_22: -6873185843637924839
+      otsp_walls_01_new_138: 9116487268553285764
+      otsp_walls_01_new_57: 2948250738827549472
+      otsp_walls_01_new_77: 5700031966017731644
+      otsp_walls_01_new_103: 2014421388308219555
+      otsp_walls_01_new_38: 1310539900505446851
+      otsp_walls_01_new_79: 4181236493118160935
+      otsp_walls_01_new_126: -2473103113241595172
+      otsp_walls_01_new_24: 1606980672562318789
+      otsp_walls_01_new_226: -8639304715750748587
+      otsp_walls_01_new_66: 6159455129618325887
+      otsp_walls_01_new_158: -4116378365752675039
+      otsp_walls_01_new_171: -6016510438232821121
+      otsp_walls_01_new_43: -1085431666361769505
+      otsp_walls_01_new_122: -5195638043471132114
+      otsp_walls_01_new_189: 826589066375023511
+      otsp_walls_01_new_39: 1722042253478218340
+      otsp_walls_01_new_99: 767948131044323254
+      otsp_walls_01_new_112: -8460024937013201272
+      otsp_walls_01_new_144: -7631506491850611270
+      otsp_walls_01_new_15: -4051044163154316270
+      otsp_walls_01_new_156: 590486182180616184
+      otsp_walls_01_new_157: -6070737704676640804
+      otsp_walls_01_new_113: 6959769412523236804
+      otsp_walls_01_new_111: -6198746142187741212
+      otsp_walls_01_new_188: -2819443706197775669
+      otsp_walls_01_new_108: 5576817210333081689
+      otsp_walls_01_new_119: 3369533422231109594
+      otsp_walls_01_new_233: -5673854507338451445
+      otsp_walls_01_new_104: -2038943427874643787
+      otsp_walls_01_new_67: 1719783816834390324
+      otsp_walls_01_new_230: 147282239525151681
+      otsp_walls_01_new_25: -5124354813427668095
+      otsp_walls_01_new_95: 1935501839234160294
+      otsp_walls_01_new_195: 4255275962156839096
+      otsp_walls_01_new_89: -5178838915866368468
+      otsp_walls_01_new_139: -9105118703380939328
+      otsp_walls_01_new_129: 5298471100471545320
+      otsp_walls_01_new_168: -7396913545001944334
+      otsp_walls_01_new_194: 1635972174442273364
+      otsp_walls_01_new_217: -1649953207177186023
+      otsp_walls_01_new_199: 7034348852878944068
+      otsp_walls_01_new_63: 445109114196206265
+      otsp_walls_01_new_211: 6626711643905728802
+      otsp_walls_01_new_130: -389377518815819204
+      otsp_walls_01_new_59: 9093668899556395516
+      otsp_walls_01_new_225: 3866808697307002465
+      otsp_walls_01_new_35: 57626493087737786
+      otsp_walls_01_new_85: -8665705408139523106
+      otsp_walls_01_new_83: -3993464867733240532
+      otsp_walls_01_new_181: 5938640807735894651
+      otsp_walls_01_new_100: -1643504942334189172
+      otsp_walls_01_new_231: 7054813441441562386
+      otsp_walls_01_new_232: 4562532000503387457
+      otsp_walls_01_new_242: -3888179189224661383
+      otsp_walls_01_new_101: -662073632155837475
+      otsp_walls_01_new_190: -3676577355728015993
+      otsp_walls_01_new_218: 7689082951970601532
+      otsp_walls_01_new_176: -1409335062525590836
+      otsp_walls_01_new_31: -172184716646961820
+      otsp_walls_01_new_71: -6294014835860750296
+      otsp_walls_01_new_182: -836456967049760038
+      otsp_walls_01_new_50: 8998016151621725263
+      otsp_walls_01_new_68: -2194676331195233334
+      otsp_walls_01_new_32: 3441309108167396095
+      otsp_walls_01_new_69: 33883294636067685
+      otsp_walls_01_new_148: -5074089013155149903
+      otsp_walls_01_new_235: 768471151504226069
+      otsp_walls_01_new_198: 3822947190954240154
+      otsp_walls_01_new_153: -5748734725340364028
+      otsp_walls_01_new_204: 5281495106697140193
+      otsp_walls_01_new_13: -6553258503032232448
+      otsp_walls_01_new_46: 2520347222577199344
+      otsp_walls_01_new_200: 6545693946090098262
+      otsp_walls_01_new_241: -1406714315530646023
+      otsp_walls_01_new_229: -7179618812425753452
+      otsp_walls_01_new_33: 4006115250266500295
+      otsp_walls_01_new_174: -3180561272830439617
+      otsp_walls_01_new_197: -3434608931179455659
+      otsp_walls_01_new_81: -5575973241744167065
+      otsp_walls_01_new_216: 7715958704648786770
+      otsp_walls_01_new_109: 6141170282028306542
+      otsp_walls_01_new_177: -895764484982887090
+      otsp_walls_01_new_73: -7278560424474094793
+      otsp_walls_01_new_152: 1760102397758483561
+      otsp_walls_01_new_136: -2424433165012925030
+      otsp_walls_01_new_53: 1970087747221815873
+      otsp_walls_01_new_247: -7405097964289514432
+      otsp_walls_01_new_124: -8822915321991099540
+      otsp_walls_01_new_65: -1977277454891241113
+      otsp_walls_01_new_236: -8555591266362827361
+      otsp_walls_01_new_72: -459870736126109972
+      otsp_walls_01_new_48: -7410139538437823136
+      otsp_walls_01_new_161: -2339843728117018905
+      otsp_walls_01_new_4: 9036410245720795225
+      otsp_walls_01_new_178: -1041275976972885256
+      otsp_walls_01_new_52: 3953926926786856678
+      otsp_walls_01_new_224: 4221282619053962791
+      otsp_walls_01_new_16: 8153012482376564965
+      otsp_walls_01_new_18: -3502257575400987120
+      otsp_walls_01_new_116: 2626025192017421135
+      otsp_walls_01_new_133: -7811117831855615755
+      otsp_walls_01_new_9: 5599339563913676920
+      otsp_walls_01_new_26: -124435825534001412
+      otsp_walls_01_new_221: -8885444184790121034
+      otsp_walls_01_new_238: 5152790642156799820
+      otsp_walls_01_new_92: -3915547470099569376
+      otsp_walls_01_new_42: -7451342989651649388
+      otsp_walls_01_new_244: -3904533640566416514
+      otsp_walls_01_new_214: -5893338934398794172
+      otsp_walls_01_new_21: -7597394776057751475
+      otsp_walls_01_new_110: 4254496097243081862
+      otsp_walls_01_new_86: 3478912206520105497
+      otsp_walls_01_new_70: 8305362283295778328
+      otsp_walls_01_new_23: 8599659578606542676
+      otsp_walls_01_new_20: 3826587415173424409
+      otsp_walls_01_new_149: 8737692744037119513
+      otsp_walls_01_new_212: 7613420060352672723
+      otsp_walls_01_new_186: -2041207108695382858
+      otsp_walls_01_new_210: -5067446410392589626
+      otsp_walls_01_new_96: -2874930201143204096
+      otsp_walls_01_new_145: -3177386129777285414
+      otsp_walls_01_new_237: -5172106954326988396
+      otsp_walls_01_new_94: 7393394293937400072
+      otsp_walls_01_new_55: -4627982464378665026
+      otsp_walls_01_new_192: 7803803179711101582
+      otsp_walls_01_new_58: 1142079473087420440
+      otsp_walls_01_new_62: 1410298775791870522
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
